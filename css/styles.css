@@ -28,6 +28,7 @@ a:visited {
 .lefthead {
     position: absolute;
     left: 65px;
+    top: 50px;
 }
 .menu {
     
