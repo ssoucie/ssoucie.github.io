@@ -8,10 +8,14 @@ a:link {
 }
 a:hover {
     font-size: 150%;
+}
+a>img:hover {
     width: 125%;
     height: auto;
 }
 a:visited {
     color: rgb(255, 200, 200);
 }
-
+#header {
+    
+}
