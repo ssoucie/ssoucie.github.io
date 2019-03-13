@@ -22,3 +22,6 @@ a:visited {
     border-width: 5px;
     border-color: red;
 }
+#lefthead {
+    align: 
+}
