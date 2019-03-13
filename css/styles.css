@@ -18,7 +18,7 @@ a:visited {
     border-style: solid;
     border-width: 2px;
     border-color: red;
-    height: 170px;
+    height: 165px;
 }
 .center {
     display: block;
@@ -29,6 +29,12 @@ a:visited {
     position: absolute;
     left: 65px;
     top: 50px;
+}
+.righthead {
+    position: absolute;
+    right: 65px;
+    top: 50px;
+    font-size: 125%;
 }
 .menu {
     
