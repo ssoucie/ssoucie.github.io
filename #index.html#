@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <title>Sam Soucie</title>
+    <meta name="description"
+	  content="Sam Soucie's personal webpage." />
+    <meta name="keywords"
+	  content="computer, science, programmer, software, engineer" />
+    <meta http-equiv="author"
+	  content="Sam Soucie" />
+    <link href="./css/styles.css" type="text/css" rel="stylesheet" />
+    <script src="./js/test.js"></script>
+  </head>
+
+  <body>
+    <div id="header">
+    <h1> Sam Soucie </h1>
+    <div id="lefthead">
+      <a href="https://github.com/ssoucie" target="_blank"><img src="./images/giticon2.png" alt="github icon" width=70></a>
+      <a href="https://twitter.com/sam_soucie" target="_blank"><img src="./images/twiticon.png" alt="twitter icon" width=75></a>
+   </div>
+    <p>
+      <a href="#about">About Me</a> | <a href="#skills">Skills</a> | <a href="#projects">Projects</a> | <a href="#courses">Courses</a> | <a href="#contact">Contact</a>
+    </p>
+   
+    </div>
+    <br />
+    <img src="./images/Sam-23.jpg" alt="A picture of me." width=200 class="center">
+    <p> I'm Sam, a sophomore Computer Science undergrad at Indiana University
+      Bloomington specializing in Programming Languages. </p>
+
+    <div id="about">
+    <h2> About Me </h2>
+    <p> I'm a second year undergraduate student at Indiana University Bloomington pursuing a BS in Computer Science. My specialization is Programming Languages, and I am grateful to get to learn from some of the best minds in the field here at IU. I also am a teaching assistant for CSCI-C 211, IU's introductory computer science course.</p>
+    <p> I was born and raised in Valparaiso, Indiana, a suburb of Chicago, and when I'm not in Bloomington that's where you can find me. </p>
+    <p> When I'm not programming, I'm probably watching or tweeting about IU sports (go Hoosiers!) and/or spending time with my girlfriend <a href="https://twitter.com/KlezmerHaley" target="_blank">Haley</a> and our dog Moose (pictured below). </p>
+    <img src="./images/moosen.jpg" alt="My dog moose." width=200 class="center">
+    </div>
+
+    <div id="skills">
+    <h2> Skills </h2>
+    <ul>
+      <li> Programming Languages </li>
+      <ul>
+	<li> Lisp/Scheme/Racket </li>
+	<li> Java </li>
+	<li> Python </li>
+	<li> JavaScript </li>
+      </ul>
+      <li> Markup Languages </li>
+      <ul>
+	<li> HTML/CSS </li>
+	<li> LaTeX </li>
+      </ul>
+    </ul>
+
+    <p> I know Racket the best (and it is my dearly beloved language). I'm not a fan of Java (or object-oriented programming in general) but I have enough experience to feel comfortable working on object-oriented projects, especially in Java. I do not have a ton of experience in Python, but I am actively learning it, and have certainly enjoyed it so far! </p>
+
+    <p> I have a solid understanding of web development, as I wrote everything on this site by hand (well, by Emacs). </p>
+    </div>
+
+    <div id="projects">
+      <h2> Projects </h2>
+      <p> Most of my time spent programming is dedicated to coursework for the classes I'm taking, but sometimes I'm able to focus on some more extracurricular work, such as:
+	<ul>
+	  <li> <a href="https://github.com/ssoucie/c211"><em>How I Learned to Stop Worrying and Love the Design Recipe</em></a>
+	    <ul>
+	      <li> A "textbook" of sorts for C211, the introductory CS class I teach at IU </li>
+	    </ul>
+	  </li>
+	  
+	  <li> <a href="https://github.com/ssoucie/ssoucie.github.io">This website</a>
+	    <ul>
+	      <li> This site serves two purposes: 1) the purpose that all personal websites are supposed to serve and 2) a place for me to practice my web development!
+	      </li>
+	    </ul>
+	  </li>
+	</ul>
+	
+    </div>
+
+    <div id="courses">
+      <h2> Courses </h2>
+      <p> The following is a list of relevant courses I have taken so far at IU:
+	<ul>
+	  <li> MATH-S 211, Calculus I, Honors (Fall 2017)</li>
+	  <li> MATH-M 212, Calculus II (Spring 2018)</li>
+	  <li> CSCI-C 211, Introduction to CS (Spring 2018)</li>
+	  <li> CSCI-C 212, Introduction to Software Systems (Fall 2018)</li>
+	  <li> CSCI-C 241, Discrete Structures for CS (Fall 2018)</li>
+	  <li> MATH-S 311, Calculus III, Honors (Fall 2018)</li>
+	  <li> CSCI-H 343, Data Structures and Algorithms, Honors (Spring 2019)</li>
+	  <li> CSCI-H 311, Programming Languages, Honors (Spring 2019)</li>
+	  <li> MATH-M 371, Elementary Numerical Analysis (Spring 2019)</li>
+	</ul>
+	
+      </p>
+      
+    </div>
+
+    <div id="contact">
+    <h2> Contact </h2>
+    <ul>
+      <li> Personal Email: samdavidsoucie {at} gmail {dot} com </li>
+      <li> School Email: ssoucie {at} iu {dot} edu </li>
+      <li> <a href="./Resume.pdf">My Resume</a>
+    </ul>
+    </div>
+
+    <p>
+      <a href="#top"> Top of page </a>
+    </p>
+    
+  </body>
+  
+</html>
