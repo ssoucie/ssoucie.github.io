@@ -26,5 +26,7 @@ a:visited {
     margin-right:auto;
 }
 #lefthead {
-    float: left;
+    position: absolute;
+    left: 0px;
+    padding: 5px;
 }
