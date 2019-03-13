@@ -27,6 +27,5 @@ a:visited {
 }
 .lefthead {
     position: absolute;
-    left: 0px;
-    padding: 15px;
+    left: 50px;
 }
