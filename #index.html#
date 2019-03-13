@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  
+  <head>
+    <title>Sam Soucie</title>
+    <meta name="description"
+	  content="Sam Soucie's personal webpage." />
+    <meta name="keywords"
+	  content="computer, science, programmer, software, engineer" />
+    <meta http-equiv="author"
+	  content="Sam Soucie" />
+    <link href="./css/styles.css" type="text/css" rel="stylesheet" />
+  </head>
+
+  <body>
+    <div id="header">
+    <h1> Sam Soucie </h1>
+    <p>
+      <a href="https://github.com/ssoucie" target="_blank"><img src="./images/giticon2.png" alt="github icon" width=75 id="lefthead"></a>
+      <a href="https://twitter.com/sam_soucie" target="_blank"><img src="./images/twiticon.png" alt="twitter icon" width=75 id="righthead"></a>
+    </p>
+    <p>
+      <a href>
+    </p>
+   
+    </div>
+    <p> I'm Sam, a sophomore Computer Science undergrad at Indiana University
+      Bloomington specializing in Programming Languages. </p>
+
+    <h2> About Me </h2>
+    <p> I'm a second year undergraduate student at Indiana University Bloomington pursuing a BS in Computer Science. My specialization is Programming Languages, and I am grateful to get to learn from some of the best minds in the field here at IU. I also am a teaching assistant for CSCI-C 211, IU's introductory computer science course.</p>
+    <p> I was born and raised in Valparaiso, Indiana, a suburb of Chicago, and when I'm not in Bloomington that's where you can find me. </p>
+    <p> When I'm not programming, I'm probably watching or tweeting about IU sports (go Hoosiers!) and/or spending time with my girlfriend <a href="https://twitter.com/KlezmerHaley" target="_blank">Haley</a> and our dog Moose (pictured below). </p>
+    <img src="./Images/moosen.jpg" alt="My dog moose." width=200>
+
+    <h2> Skills </h2>
+    <ul>
+      <li> Programming Languages </li>
+      <ul>
+	<li> Lisp/Scheme/Racket </li>
+	<li> Java </li>
+	<li> Python </li>
+      </ul>
+      <li> Markup Languages </li>
+      <ul>
+	<li> HTML/CSS </li>
+	<li> LaTeX </li>
+      </ul>
+    </ul>
+
+    <p> I know Racket the best (and it is my dearly beloved language). I'm not a fan of Java (or object-oriented programming in general) but I have enough experience to feel comfortable working on object-oriented projects, especially in Java. I do not have a ton of experience in Python, but I am actively learning it, and have certainly enjoyed it so far! </p>
+	
+
+    <h2> Contact </h2>
+    <ul>
+      <li> Personal Email: samdavidsoucie {at} gmail {dot} com </li>
+      <li> School Email: ssoucie {at} iu {dot} edu </li>
+      <li> <a href="./Resume.pdf">My Resume</a>
+    </ul>
+
+    <p>
+      <a href="#top"> Top of page </a>
+    </p>
+    
+  </body>
+  
+</html>
