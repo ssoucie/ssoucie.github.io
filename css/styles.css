@@ -9,10 +9,6 @@ a:link {
 a:hover {
     font-size: 150%;
 }
-a>img:hover {
-    width: 110px;
-    height: auto;
-}
 a:visited {
     color: rgb(255, 200, 200);
 }
