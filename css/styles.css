@@ -10,12 +10,13 @@ a:hover {
     font-size: 150%;
 }
 a>img:hover {
-    width: 125%;
+    width: 125px;
     height: auto;
 }
 a:visited {
     color: rgb(255, 200, 200);
 }
 #header {
-    
+    height: 400px;
+    background-color: rgb(50, 50, 150);
 }
