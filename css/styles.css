@@ -36,7 +36,11 @@ a:visited {
     right: 30px;
     top: 15px;
 }
+.name {
+    position: relative;
+    font-size: 150%; 
+}
 .menu {
     position: relative;
-    top: 40px;
+    top: 50px;
 }
