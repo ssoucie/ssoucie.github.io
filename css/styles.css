@@ -38,8 +38,5 @@ a:visited {
 }
 .menu {
     position: absolute;
-    width: 400px;
     top: 150px;
-    left: auto;
-    right: auto;
 }
