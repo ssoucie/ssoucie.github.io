@@ -37,5 +37,6 @@ a:visited {
     top: 15px;
 }
 .menu {
+    position: relative;
     top: 150px;
 }
