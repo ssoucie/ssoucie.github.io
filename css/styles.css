@@ -12,7 +12,7 @@ a:hover {
 a:visited {
     color: rgb(255, 200, 200);
 }
-#header {
+header {
     background-color: rgb(50, 50, 150);
     text-align: center;
     border-style: solid;
