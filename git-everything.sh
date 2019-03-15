@@ -5,6 +5,7 @@ if [ $# -eq 0 ]
 then
   git commit -m "added stuff"
 else
-  git commit -m $@
+  userMsg=$@
+  git commit -m "$userMsg"
 fi
 git push
