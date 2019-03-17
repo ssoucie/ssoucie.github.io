@@ -44,3 +44,6 @@ header {
     position: relative;
     top: 5px;
 }
+#top-link {
+    text-align: center;
+}
