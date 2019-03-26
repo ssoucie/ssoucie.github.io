@@ -2,7 +2,9 @@ body {
     font-family: "Courier New";
     color: #ffffff;
     background-color: rgb(50, 0, 50);
-    margin-left: 10px;
+}
+p {
+    margin: auto auto auto 10px;
 }
 a:link {
     color: rgb(0, 255, 200);
